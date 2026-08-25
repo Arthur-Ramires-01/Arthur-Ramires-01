@@ -31,6 +31,3 @@ Aplicativo de quiz para estudos, front-end em HTML, CSS e JavaScript puro.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Arthur-Ramires-01&show_icons=true&theme=default)
